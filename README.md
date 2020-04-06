@@ -1,2 +1,2 @@
 # Filter
-An intelligent example of a chat filter.
+An example of an intelligent chat filter.
